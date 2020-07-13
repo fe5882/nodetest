@@ -1,0 +1,14 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "my npm test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "fe5882",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
